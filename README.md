@@ -1,5 +1,5 @@
 # C-linux-hash-overried
-Endpoints // 
+Endpoints C++ // 
 
 onLanguage:c
 onLanguage:cpp
